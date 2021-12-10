@@ -7,5 +7,6 @@ public class demo {
         System.out.println("git ok3");
         System.out.println("git ok-hot-fix");
         System.out.println("git ok-master");
+        System.out.println("git ok-github-pull-ok");
     }
 }
